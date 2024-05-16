@@ -1,0 +1,46 @@
+# Node modules
+node_modules
+
+# Environment configs
+/config/config.env
+
+# VS Code settings
+.vscode
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+.DS_Store?
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.AppleDesktop
+.AppleDB
+.NetworkTrashFolder
+.TemporaryItems
+.apdisk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# Folders
+Desktop.ini
+$RECYCLE.BIN/
